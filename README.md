@@ -18,7 +18,7 @@
     }
     .nav {
       display: inline-block;
-      background: #e0f7fa;
+      background: #0090a3;
       padding: 5px 10px;
       border-radius: 5px;
       margin-right: 5px;
@@ -28,14 +28,13 @@
 <body>
   <div class="resume">
     <h1>Резюме - Смирнов Даниил Александрович</h1>
-    <p>Студент — Разработчик Программного обеспечения</p>
 
     <div class="date">
       <h2>Данные</h2>
-      <p>📫 aromashe14@gmail.com</p>
-      <p>📱 +7 (707) 111 42 63</p>
-      <p>📍 Казахстан, Алматы</p>
-      <p>🎂 04.08.2008</p>
+      <p>📫 Почта: aromashe14@gmail.com</p>
+      <p>📱 Номер телефона: +7 (707) 111 42 63</p>
+      <p>📍 Адрес проживания: Казахстан, Алматы, ул. нуркена абдирова 25/1</p>
+      <p>🎂 Дата рождения: 04.08.2008</p>
     </div>
 
     <div class="navik">
